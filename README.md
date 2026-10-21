@@ -1,3 +1,4 @@
+## **Documentation of this uploaded project is done by the Ai model, All calculations, values and results were reviewed and verified by the author.##
 Refer to the provided SG3525A.lib model file to import and use the SG3525A IC in LTspice.
 Refer to the provided `sg3525a.asy` symbol file and `SG3525A.lib` model file to import the SG3525A IC into LTspice.
 
